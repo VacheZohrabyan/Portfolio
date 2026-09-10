@@ -1,0 +1,14 @@
+/home/user/Documents/Portfolio/CookCookBook/bin/Debug/net8.0/CookCookBook
+/home/user/Documents/Portfolio/CookCookBook/bin/Debug/net8.0/CookCookBook.deps.json
+/home/user/Documents/Portfolio/CookCookBook/bin/Debug/net8.0/CookCookBook.runtimeconfig.json
+/home/user/Documents/Portfolio/CookCookBook/bin/Debug/net8.0/CookCookBook.dll
+/home/user/Documents/Portfolio/CookCookBook/bin/Debug/net8.0/CookCookBook.pdb
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.AssemblyInfo.cs
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.dll
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/refint/CookCookBook.dll
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.pdb
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/CookCookBook.genruntimeconfig.cache
+/home/user/Documents/Portfolio/CookCookBook/obj/Debug/net8.0/ref/CookCookBook.dll
