@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/bin/Debug/net8.0/GameDataParser
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/bin/Debug/net8.0/GameDataParser.deps.json
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/bin/Debug/net8.0/GameDataParser.runtimeconfig.json
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/bin/Debug/net8.0/GameDataParser.dll
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/bin/Debug/net8.0/GameDataParser.pdb
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfo.cs
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.sourcelink.json
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.dll
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/refint/GameDataParser.dll
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.pdb
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/GameDataParser.genruntimeconfig.cache
+/home/user/Documents/Portfolio/GameDataParser/GameDataParser/obj/Debug/net8.0/ref/GameDataParser.dll

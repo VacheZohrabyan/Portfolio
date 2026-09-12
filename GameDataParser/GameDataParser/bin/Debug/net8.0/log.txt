@@ -1,0 +1,22 @@
+[9/12/2026 3:41:04 PM]
+Exception message: The file does not exist
+Stack trace:    at GameDataParserApp.Run() in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 40
+   at Program.<Main>$(String[] args) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 11
+
+[9/12/2026 3:42:29 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+Stack trace:    at GameDataParserApp.Run() in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 70
+   at Program.<Main>$(String[] args) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 11
+
+[9/12/2026 5:56:10 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+Stack trace:    at VideoGameDeserializer.DeserializedVideoGameFrom(String fileContents, String fileName) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 84
+   at GameDataParserApp.Run() in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 55
+   at Program.<Main>$(String[] args) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 21
+
+[9/12/2026 6:13:09 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+Stack trace:    at GameDataParser.DataAccess.VideoGameDeserializer.DeserializedVideoGame(String fileContents, String fileName) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/DataAccess/VideoGameDeserializer.cs:line 26
+   at GameDataParser.App.GameDataParserApp.Run() in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/App/GameDataParserApp.cs:line 30
+   at Program.<Main>$(String[] args) in /home/user/Documents/Portfolio/GameDataParser/GameDataParser/Program.cs:line 21
+
