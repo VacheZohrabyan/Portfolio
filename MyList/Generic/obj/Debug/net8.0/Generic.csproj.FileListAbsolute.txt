@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/MyList/Generic/bin/Debug/net8.0/Generic
+/home/user/Documents/Portfolio/MyList/Generic/bin/Debug/net8.0/Generic.deps.json
+/home/user/Documents/Portfolio/MyList/Generic/bin/Debug/net8.0/Generic.runtimeconfig.json
+/home/user/Documents/Portfolio/MyList/Generic/bin/Debug/net8.0/Generic.dll
+/home/user/Documents/Portfolio/MyList/Generic/bin/Debug/net8.0/Generic.pdb
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.AssemblyInfo.cs
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.sourcelink.json
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.dll
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/refint/Generic.dll
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.pdb
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/Generic.genruntimeconfig.cache
+/home/user/Documents/Portfolio/MyList/Generic/obj/Debug/net8.0/ref/Generic.dll

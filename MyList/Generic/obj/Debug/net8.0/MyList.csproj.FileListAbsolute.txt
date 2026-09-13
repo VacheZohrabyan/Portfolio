@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/MyList/MyList/bin/Debug/net8.0/MyList
+/home/user/Documents/Portfolio/MyList/MyList/bin/Debug/net8.0/MyList.deps.json
+/home/user/Documents/Portfolio/MyList/MyList/bin/Debug/net8.0/MyList.runtimeconfig.json
+/home/user/Documents/Portfolio/MyList/MyList/bin/Debug/net8.0/MyList.dll
+/home/user/Documents/Portfolio/MyList/MyList/bin/Debug/net8.0/MyList.pdb
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.AssemblyInfo.cs
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.sourcelink.json
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.dll
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/refint/MyList.dll
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.pdb
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/MyList.genruntimeconfig.cache
+/home/user/Documents/Portfolio/MyList/MyList/obj/Debug/net8.0/ref/MyList.dll
