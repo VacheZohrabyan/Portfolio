@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/Cache/Cache/bin/Debug/net8.0/Cache
+/home/user/Documents/Portfolio/Cache/Cache/bin/Debug/net8.0/Cache.deps.json
+/home/user/Documents/Portfolio/Cache/Cache/bin/Debug/net8.0/Cache.runtimeconfig.json
+/home/user/Documents/Portfolio/Cache/Cache/bin/Debug/net8.0/Cache.dll
+/home/user/Documents/Portfolio/Cache/Cache/bin/Debug/net8.0/Cache.pdb
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.AssemblyInfo.cs
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.sourcelink.json
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.dll
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/refint/Cache.dll
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.pdb
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/Cache.genruntimeconfig.cache
+/home/user/Documents/Portfolio/Cache/Cache/obj/Debug/net8.0/ref/Cache.dll

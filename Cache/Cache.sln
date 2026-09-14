@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Cache\Cache.csproj", "{F26BC90A-B67C-4216-BDD2-2763DD5E8054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26BC90A-B67C-4216-BDD2-2763DD5E8054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26BC90A-B67C-4216-BDD2-2763DD5E8054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26BC90A-B67C-4216-BDD2-2763DD5E8054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26BC90A-B67C-4216-BDD2-2763DD5E8054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
