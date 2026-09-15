@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/bin/Debug/net8.0/CSVProcessingImprovements
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/bin/Debug/net8.0/CSVProcessingImprovements.deps.json
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/bin/Debug/net8.0/CSVProcessingImprovements.runtimeconfig.json
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/bin/Debug/net8.0/CSVProcessingImprovements.dll
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/bin/Debug/net8.0/CSVProcessingImprovements.pdb
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.AssemblyInfo.cs
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.sourcelink.json
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.dll
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/refint/CSVProcessingImprovements.dll
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.pdb
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/CSVProcessingImprovements.genruntimeconfig.cache
+/home/user/Documents/Portfolio/CSVProcessingImprovements/CSVProcessingImprovements/obj/Debug/net8.0/ref/CSVProcessingImprovements.dll
