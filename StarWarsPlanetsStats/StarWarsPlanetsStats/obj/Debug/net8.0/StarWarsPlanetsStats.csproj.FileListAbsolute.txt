@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.AssemblyInfo.cs
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.sourcelink.json
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net8.0/StarWarsPlanetsStats
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net8.0/StarWarsPlanetsStats.deps.json
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net8.0/StarWarsPlanetsStats.runtimeconfig.json
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net8.0/StarWarsPlanetsStats.dll
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net8.0/StarWarsPlanetsStats.pdb
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.dll
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/refint/StarWarsPlanetsStats.dll
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.pdb
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/StarWarsPlanetsStats.genruntimeconfig.cache
+/home/user/Documents/Portfolio/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net8.0/ref/StarWarsPlanetsStats.dll
