@@ -6,15 +6,15 @@ namespace StarWarsPlanetsStats.Model;
 public readonly record struct Planet
 {
     public readonly string? Name { get; }
-    public readonly int? Diameter { get; }
-    public readonly int? SurfaceWater { get; }
-    public readonly int? Population { get; }
+    public readonly long? Diameter { get; }
+    public readonly long? SurfaceWater { get; }
+    public readonly long? Population { get; }
 
     public Planet(
         string? name,
-        int? diameter,
-        int? surfaceWater,
-        int? population)
+        long? diameter,
+        long? surfaceWater,
+        long? population)
     {
         if (name is null)
         {
@@ -30,9 +30,9 @@ public readonly record struct Planet
     public static explicit operator Planet(Result planetDTo)
     {
         string? name = planetDTo.name;
-        int? diameter = planetDTo.diameter.ToIntOrNull();
-        int? surfaceWater = planetDTo.surface_water.ToIntOrNull();
-        int? population = planetDTo.population.ToIntOrNull();
+        long? diameter = planetDTo.diameter.ToLongOrNull();
+        long? surfaceWater = planetDTo.surface_water.ToLongOrNull();
+        long? population = planetDTo.population.ToLongOrNull();
         return new Planet(name, diameter, surfaceWater, population);
     }
 }

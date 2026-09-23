@@ -3,19 +3,19 @@ using StarWarsPlanetsStats.UserInteractor;
 
 namespace StarWarsPlanetsStats.App;
 
-public class PlanetStatisticAnalayzer : IPlanetStatisticAnalayzer
+public class PlanetStatisticalAnalyzer : IPlanetStatisticAnalyzer
 {
     private readonly IPlanetsStatsUserInteractor _planetsStatsUserInteractor;
     
-    private readonly Dictionary<string, Func<Planet, int?>> _propertyNamesToSelectorMapping =
-        new Dictionary<string, Func<Planet, int?>>
+    private readonly Dictionary<string, Func<Planet, long?>> _propertyNamesToSelectorMapping =
+        new Dictionary<string, Func<Planet, long?>>
         {
             ["population"] = planet => planet.Population,
             ["diameter"] = planet => planet.Diameter,
             ["surface water"] = planet => planet.SurfaceWater
         };
     
-    public PlanetStatisticAnalayzer(
+    public PlanetStatisticalAnalyzer(
         IPlanetsStatsUserInteractor planetsStatsUserInteractor)
     {
         _planetsStatsUserInteractor = planetsStatsUserInteractor;
@@ -39,7 +39,7 @@ public class PlanetStatisticAnalayzer : IPlanetStatisticAnalayzer
     private static void ShowStatistics(
         IEnumerable<Planet> planets,
         string? propertyName,
-        Func<Planet, int?> propertySelector)
+        Func<Planet, long?> propertySelector)
     {
         ShowStatistics(
             "Max",
@@ -56,7 +56,7 @@ public class PlanetStatisticAnalayzer : IPlanetStatisticAnalayzer
     private static void ShowStatistics(
         string? descriptor,
         Planet selectedPlanet,
-        Func<Planet, int?> propertySelector,
+        Func<Planet, long?> propertySelector,
         string? propertyName)
     {
         Console.WriteLine($"{descriptor} {propertyName} is {propertySelector(selectedPlanet)} " +

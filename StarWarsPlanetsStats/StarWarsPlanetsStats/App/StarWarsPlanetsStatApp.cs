@@ -7,11 +7,11 @@ namespace StarWarsPlanetsStats.App;
 public class StarWarsPlanetsStatApp
 {
     private readonly IPlanetsReader _planetsReader;
-    private readonly IPlanetStatisticAnalayzer _planetStatisticAnalyzer;
+    private readonly IPlanetStatisticAnalyzer _planetStatisticAnalyzer;
     private readonly IPlanetsStatsUserInteractor _planetsStatsUserInteractor;
     public StarWarsPlanetsStatApp(
         IPlanetsReader planetsReader,
-        IPlanetStatisticAnalayzer planetStatisticAnalyzer, IPlanetsStatsUserInteractor planetsStatsUserInteractor)
+        IPlanetStatisticAnalyzer planetStatisticAnalyzer, IPlanetsStatsUserInteractor planetsStatsUserInteractor)
     {
         _planetsReader = planetsReader;
         _planetStatisticAnalyzer = planetStatisticAnalyzer;

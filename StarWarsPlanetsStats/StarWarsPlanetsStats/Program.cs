@@ -11,7 +11,7 @@ try
             new ApiDataReader(),
             new MockStarWarsApiDataReader(),
             new ConsoleUserInteract()),
-        new PlanetStatisticAnalayzer(
+        new PlanetStatisticalAnalyzer(
             new PlanetsStatsUserInteractor(
                 new ConsoleUserInteract())),
         new PlanetsStatsUserInteractor(
