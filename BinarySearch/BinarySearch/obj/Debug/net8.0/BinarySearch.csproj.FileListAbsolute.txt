@@ -1,0 +1,15 @@
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfoInputs.cache
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfo.cs
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.csproj.CoreCompileInputs.cache
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.sourcelink.json
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/bin/Debug/net8.0/BinarySearch
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/bin/Debug/net8.0/BinarySearch.deps.json
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/bin/Debug/net8.0/BinarySearch.runtimeconfig.json
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/bin/Debug/net8.0/BinarySearch.dll
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/bin/Debug/net8.0/BinarySearch.pdb
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.dll
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/refint/BinarySearch.dll
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.pdb
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/BinarySearch.genruntimeconfig.cache
+/home/user/Documents/Portfolio/BinarySearch/BinarySearch/obj/Debug/net8.0/ref/BinarySearch.dll
